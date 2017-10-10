@@ -8,3 +8,5 @@
 	Library Path: https://github.com/teeheee/rocci-kicad-library	
 	Plugin Type: Github
 3. Ok
+
+oder das Template Projekt nutzen
