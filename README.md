@@ -14,3 +14,20 @@
 3. Ok
 
 oder das Template Projekt nutzen
+
+## TODO
+
+### Symbols
+
+* Goldboard I2C
+* Goldboard Motor
+* CMPS03
+* VL53L0X
+* ISP_Stecker
+* Arduino Nano
+
+### Modules
+	
+* CMPS03
+* VL53L0X
+* ISP_Stecker
