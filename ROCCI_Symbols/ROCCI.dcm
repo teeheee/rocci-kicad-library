@@ -1,9 +1,152 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP Optokoppler_1x
-D DC Optocoupler, Vce 35V, CTR 50%, DIP-4
-K NPN DC Optocoupler
-F http://www.us.liteon.com/downloads/LTV-817-827-847.PDF
+EESchema-DOCLIB  Version 2.0  Date: Fri Oct 20 08:51:21 2017
+$CMP ATMEGA32-P
+D PDIP40, 32k Flash, 2k SRAM, 1k EEPROM, JTAG
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/Images/doc2503.pdf
 $ENDCMP
 #
-#End Doc Library
+$CMP Conn_01x01
+D Generic connector, single row, 01x01
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x02
+D Generic connector, single row, 01x02
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x03
+D Generic connector, single row, 01x03
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x04
+D Generic connector, single row, 01x04
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x05
+D Generic connector, single row, 01x05
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x06
+D Generic connector, single row, 01x06
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x07
+D Generic connector, single row, 01x07
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x08
+D Generic connector, single row, 01x08
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x09
+D Generic connector, single row, 01x09
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x10
+D Generic connector, single row, 01x10
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x11
+D Generic connector, single row, 01x11
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x12
+D Generic connector, single row, 01x12
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x13
+D Generic connector, single row, 01x13
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x14
+D Generic connector, single row, 01x14
+K connector
+F ~
+$ENDCMP
+#
+$CMP Kondensator
+D Unpolarized capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP D
+D Diode
+K diode
+$ENDCMP
+#
+$CMP D_Schottky
+D Schottky diode
+K diode Schottky
+$ENDCMP
+#
+$CMP Fuse
+D Fuse, generic
+K Fuse
+$ENDCMP
+#
+$CMP Jumper
+D Jumper, generic, normally closed
+K jumper bridge link nc
+$ENDCMP
+#
+$CMP Jumper_NC_Dual
+D Dual Jumper, normally closed
+K jumper bridge link nc
+$ENDCMP
+#
+$CMP LED
+D LED generic
+K led diode
+$ENDCMP
+#
+$CMP POT
+D Potentiometer
+K resistor variable
+$ENDCMP
+#
+$CMP Q_NMOS_GDS
+D Transistor N-MOSFET with substrate diode (general)
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP R
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP SW_DIP_x01
+D 1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol
+K dip switch
+$ENDCMP
+#
+$CMP SW_DPDT_x2
+D Switch, dual pole double throw, separate symbols
+K switch dual-pole double-throw DPDT spdt ON-ON
+$ENDCMP
+#
+#End Library
