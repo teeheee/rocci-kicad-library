@@ -25,9 +25,15 @@ oder das Template Projekt nutzen
 * VL53L0X
 * ISP_Stecker
 * Arduino Nano
+* SRF08
 
 ### Modules
 	
 * CMPS03
 * VL53L0X
 * ISP_Stecker
+* SRF08
+
+### 3d-Parts
+
+all
