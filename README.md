@@ -26,7 +26,7 @@ Wenn KiCAD zum ersten mal gestartet wird, erhaltet ihr beim öffnen der Footprint
 
 Nach bestätigen wird die Footprint-Verwaltung geöffnet und ihr könnt einen Verweis auf den Ornder ROCCI_footprint.pretty erstellen:
 
-![](images/Add_rocci_Footprint.PNG)
+![](images/Add_rocci_footprint.PNG)
 
 Beim verknüpfen der Symbole mit den Footprints steht dann die ROCCI lib zur verfügung:
 
