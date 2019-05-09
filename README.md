@@ -34,6 +34,6 @@ Beim verknüpfen der Symbole mit den Footprints steht dann die ROCCI lib zur verf
 
 ## KiCAD-Doku
 
-![](images/kicad_flowchart.PNG)
+![](images/kicad_flowchart.png)
 
 > http://docs.kicad-pcb.org/5.1.2/de/getting_started_in_kicad/getting_started_in_kicad.html
