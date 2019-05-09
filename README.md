@@ -1,39 +1,39 @@
-# rocci-kicad-library
+# rocci-kicad-library 
+
+Diese Bibliothek enthält alle im RoCCI verwendeten Bauteile. Sie ist für Kicad Version 5.1 gedacht.
 
 ## Einbinden
 
-1. PcbNew -> Preferences -> Footprint Libraries Manager
-2. Append Library
+### Symbole
 
- >	Nickname: Rocci
+Wenn KiCAD zum ersten mal gestartet wird, erhaltet ihr beim öffnen der Bauteilbibliotheks-Verwaltung folgendes Menü:
 
- >	Library Path: https://github.com/teeheee/rocci-kicad-library
-	
- >	Plugin Type: Github
+!()[images/First_Symbol_promt.png]
 
-3. Ok
+Nach bestätigen wird die Bauteilbibliotheks-Verwaltung geöffnet und ihr könnt einen Verweis auf die ROCCI.lib erstellen:
 
-oder das Template Projekt nutzen
+!()[images/Add_rocci_symbol.png]
 
-## TODO
+Beim Einfügen neuer Bauteile in den Schaltplan ist die ROCCI lib dann verfügbar:
 
-### Symbols
+!()[images/Use_Symbols.png]
 
-* Goldboard I2C
-* Goldboard Motor
-* CMPS03
-* VL53L0X
-* ISP_Stecker
-* Arduino Nano
-* SRF08
+### Footprints
 
-### Modules
-	
-* CMPS03
-* VL53L0X
-* ISP_Stecker
-* SRF08
+Wenn KiCAD zum ersten mal gestartet wird, erhaltet ihr beim öffnen der Footprint-Verwaltung folgendes Menü:
 
-### 3d-Parts
+!()[images/First_Footprint_promt.png]
 
-all
+Nach bestätigen wird die Footprint-Verwaltung geöffnet und ihr könnt einen Verweis auf den Ornder ROCCI_footprint.pretty erstellen:
+
+!()[images/Add_rocci_Footprint.png]
+
+Beim verknüpfen der Symbole mit den Footprints steht dann die ROCCI lib zur verfügung:
+
+!()[images/Use_Footprints.png]
+
+## KiCAD-Doku
+
+!()[images/kicad_flowchart.png]
+
+> http://docs.kicad-pcb.org/5.1.2/de/getting_started_in_kicad/getting_started_in_kicad.html
