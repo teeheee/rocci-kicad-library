@@ -30,7 +30,8 @@ Nach bestätigen wird die Footprint-Verwaltung geöffnet und ihr könnt einen Ve
 
 ![](images/Add_rocci_footprint.PNG)
 
-Beim verknüpfen der Symbole mit den Footprints steht dann die ROCCI lib zur verfügung:
+Beim verknüpfen der Symbole mit den Footprints steht dann die ROCCI lib zur verfügung.
+Es können auch die in den Symbolen gespeicherten Verknüpfungen zu den Footprints verwendet werden.
 
 ![](images/Use_Footprints.PNG)
 
