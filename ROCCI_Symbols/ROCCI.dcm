@@ -48,6 +48,12 @@ K LED diode
 F ~
 $ENDCMP
 #
+$CMP PCA9548APW
+D Low voltage 8-channel I2C switch with reset, TSSOP-24
+K Low voltage 8-channel I2C switch with reset
+F http://www.ti.com/lit/ds/symlink/pca9548a.pdf
+$ENDCMP
+#
 $CMP RGB_LED_WS2813
 D RGB LED with integrated controller
 K RGB LED addressable
@@ -58,6 +64,12 @@ $CMP Sicherung
 D Fuse
 K fuse
 F ~
+$ENDCMP
+#
+$CMP TCA9548APWR
+D Low voltage 8-channel I2C switch with reset, TSSOP-24
+K Low voltage 8-channel I2C switch with reset
+F http://www.ti.com/lit/ds/symlink/tca9548a.pdf
 $ENDCMP
 #
 $CMP Taster
